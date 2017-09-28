@@ -13,7 +13,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         WebServiceCalls.getURL();
-
+        //this is a test
+        //this is also a test
     }
 
     @Override
